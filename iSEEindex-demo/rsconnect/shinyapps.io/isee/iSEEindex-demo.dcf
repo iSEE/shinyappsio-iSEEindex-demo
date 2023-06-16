@@ -1,0 +1,11 @@
+name: iSEEindex-demo
+title: iSEEindex-demo
+username:
+account: isee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9312951
+bundleId: 7349150
+url: https://isee.shinyapps.io/iSEEindex-demo/
+when: 1686830200.63823
+lastSyncTime: 1686830200.63825
